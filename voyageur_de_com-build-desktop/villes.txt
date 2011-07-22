@@ -1,0 +1,31 @@
+26
+Auxerre	708	306,555
+Amiens	632	121
+Albi	623,2	648
+Angouleme	500	498
+Auch	522	675
+Aurillac	643	561
+Arras	654	84
+Age	524	623
+Blois	576	326
+Dijon	797	346
+Charleville	763	128
+Grenoble	844	528
+Laval	451	281
+Moulins	696	414
+Nantes	402	356
+Nancy	855	217
+Nevers	686	378
+Orleans	609	295
+Paris	634	217
+Rennes	399	277
+Quimper	253	278
+Saint-Brieuc	332	237
+Toulon	873	716
+Tours	533	343
+Troyes	736	260
+Villejuif	635	218
+
+
+
+

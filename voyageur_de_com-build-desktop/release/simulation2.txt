@@ -1,0 +1,16 @@
+Distance minimale: 63.9025
+caen
+rennes
+vesoul
+vannes
+avignon
+bayonne
+lyon
+brest
+nancy
+metz
+strasbourg
+nantes
+marseille
+toulouse
+auch
