@@ -20,7 +20,7 @@ Cette méthode est certainement la plus importante de l'algorithme: c'est elle q
 Notre méthode va associer à chacun des individus reçu un autre survivant afin de former un couple, puis chacun de ces couples va recevoir aléatoirement un intervalle de mutation caractérisé par un début et une largeur. Il nous faut ensuite  injecter la partie du premier parent comprise dans l'intervalle du mutation dans le deuxième enfant, et inversement pour le second parent.
 L'étape la plus fastidieuse est ensuite de supprimer les villes en doubles en respectant l'ordre du parent (afin de conserver un maximum de parties intéressantes). Voici l'algorithme que nous avons utilisé:
 Si dans l'individu fils une ville est la même que dans l'intervalle de croisement alors on retient sa position dans un tableau. Si l'on a trouvé des doubles alors on regarde une à une les valeurs de l'intervalle de mutation du parent et si elles sont absentes on les substituent dans l'enfant aux positions enregistrées, dans l'ordre.
-Il nous reste enfant à remplacer la population précédente par la nouvelle population comprenant tous les enfants obtenus.
+Il nous reste enfin à remplacer la population précédente par la nouvelle population comprenant tous les enfants obtenus.
 
 ### L'opérateur de mutations
 Cette méthode est certainement la plus simple: elle choisit un individu et inverse deux de ces villes au hasard. On envoi ainsi à cette méthode le nombre de mutations à effectuer qui correspond au taux de mutation * le nombre d'individus au sein de la population.
