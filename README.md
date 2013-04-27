@@ -2,7 +2,7 @@
 
 Un voyageur doit visiter n villes. Celui-ci souhaite faire une tournée en visitant chaque ville au moins exactement 1 fois et en terminant à sa ville de départ. Quel est le parcours le plus court, les distances entre chacune des villes étant connues?
 
-### Détails des différentes étapes algorithmiques
+### Différentes étapes algorithmiques:
 
 #### Génération d'une population d'individu pseudo aléatoire.
 
